@@ -20,5 +20,5 @@ Setup:
    /etc/scripts/ack_event.pl {EVENT.ID}
 8. test it
 
-Script is based on AabbixAPI.pm module from https://github.com/v-zhuravlev/ZabbixAPI
+Script is based on ZabbixAPI.pm module from https://github.com/v-zhuravlev/ZabbixAPI
 
